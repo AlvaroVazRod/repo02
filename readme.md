@@ -9,4 +9,5 @@ Con este comando pasamos los ficheros de staging area al repositorio local.
 ### git push  
 Con este comando actualizamos lo que tenemos en el repositorio local al repositorio remoto.
 ![Este contenido se mostrará cuando la imagen no se pueda cargar](./repoRemoto6.png "commit")   
-Añadimos al final origin que es la rama a la que queremos añadir ese push.
+Añadimos al final origin que es la rama a la que queremos añadir ese push.  
+Toda esta informacion esta en [GitBook](https://git-scm.com/book/en/v2)
